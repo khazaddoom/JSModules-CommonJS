@@ -1,0 +1,1 @@
+let varA: string;
