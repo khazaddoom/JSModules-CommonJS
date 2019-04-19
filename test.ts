@@ -1,1 +1,3 @@
-let varA: string;
+function calculateAge(yearOfBirth: number) : number {
+    return 2019 - yearOfBirth;
+}
